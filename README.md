@@ -9,7 +9,9 @@
 	<li>Уменьшение размерность изображения (в пикселях) в 4 раза</li>
 	<li>Нахождение и выделение (рамкой) самого темного объекта на изображении</li>
 </ol> 
+
 Ссылка на статью:
+
 
 
 Hello all, this is the third article in the Introduction to Neural Networks series, Neural Networks for Beginners. 
@@ -23,4 +25,6 @@ will be explained below:
 	<li>Reducing the size of the image (in pixels) by a factor of 4</li>
 	<li>Finding and highlighting (framing) the darkest object in the image</li>
 </ol> 
+
 Article Reference:
+
