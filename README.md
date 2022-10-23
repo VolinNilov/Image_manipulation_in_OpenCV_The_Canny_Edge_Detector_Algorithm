@@ -20,7 +20,7 @@ the results into separate files. And here's a short list of tasks that
 will be explained below:
 <ol>
 	<li>Converting the image to grayscale</li>
-  <li>Reducing the size of the image (in pixels) by a factor of 4</li
-  <li>Finding and highlighting (framing) the darkest object in the image</li>
+	<li>Reducing the size of the image (in pixels) by a factor of 4</li>
+	<li>Finding and highlighting (framing) the darkest object in the image</li>
 </ol> 
 Article Reference:
