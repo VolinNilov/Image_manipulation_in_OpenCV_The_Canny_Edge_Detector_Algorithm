@@ -10,7 +10,7 @@
 	<li>Нахождение и выделение (рамкой) самого темного объекта на изображении</li>
 </ol> 
 
-Ссылка на статью:
+Ссылка на статью: https://habr.com/ru/company/ruvds/blog/694994/
 
 
 
@@ -26,5 +26,5 @@ will be explained below:
 	<li>Finding and highlighting (framing) the darkest object in the image</li>
 </ol> 
 
-Article Reference:
+Article Reference: https://habr.com/ru/company/ruvds/blog/694994/
 
