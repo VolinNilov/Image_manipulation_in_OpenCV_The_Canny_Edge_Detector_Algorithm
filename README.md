@@ -1,4 +1,6 @@
 # Image manipulation in OpenCV The Canny Edge Detector Algorithm
+<a href="https://habr.com/ru/company/ruvds/blog/694994/"><img src="https://habrastorage.org/webt/gd/az/ji/gdazjidy8wjwoonj_m_fee_vchm.png" /></a>
+
 #3 Neural Networks for Beginners. Image manipulation in OpenCV. The Canny Edge Detector algorithm 
 
 Всем привет, это третья статья серии введения в нейронные сети, "Нейронные сети для начинающих". 
