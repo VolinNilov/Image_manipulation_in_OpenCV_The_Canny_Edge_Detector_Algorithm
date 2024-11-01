@@ -1,3 +1,9 @@
+<a href="https://github.com/VolinNilov/Image_manipulation_in_OpenCV_The_Canny_Edge_Detector_Algorithm/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=VolinNilov/Image_manipulation_in_OpenCV_The_Canny_Edge_Detector_Algorithm" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 # Image manipulation in OpenCV The Canny Edge Detector Algorithm
 <a href="https://habr.com/ru/company/ruvds/blog/694994/"><img src="https://habrastorage.org/webt/gd/az/ji/gdazjidy8wjwoonj_m_fee_vchm.png" /></a>
 
